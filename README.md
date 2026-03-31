@@ -24,7 +24,7 @@ In this project, The Bright Coffee Analysis was conducted to evaluate the perfor
 - Performed SQL analysis to calculate revenue, sales trends, and performance metrics
 - Created pivot tables and dashboards to visualize key insights
 - Analyzed time-based sales patterns (morning, afternoon, evening) known as time classifications
-- Identified tops selling products and highest-performing branch
+- Identified tops selling products and highest performing branch
 - Compiled findings into a professional presentation
 
 --- Recommendations---
